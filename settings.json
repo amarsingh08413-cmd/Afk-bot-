@@ -27,10 +27,10 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": fales,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
-      "messages": 
+      "repeat-delay": 12000000000000,
+      "messages": 'l'
       ]
     },
     "chat-log": true,
