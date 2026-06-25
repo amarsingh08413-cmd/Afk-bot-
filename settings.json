@@ -30,7 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 12000000000000,
-      "messages": 
+      "messages": [ 1,
       ]
     },
     "chat-log": true,
